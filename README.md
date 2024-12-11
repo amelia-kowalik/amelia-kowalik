@@ -13,6 +13,13 @@
 
 ###
 
+<p align="center">
+  Currently working on <a href="https://github.com/wiktormalyska/technologia-cyborga/">Technologia Cyborga</a> and <a href="https://github.com/amelia-kowalik/Cat-Town/">Cat Town</a>
+</p>
+
+
+###
+
 <div align="left">
 </div>
 
