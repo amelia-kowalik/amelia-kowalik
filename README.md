@@ -4,21 +4,19 @@
 
 <h3 align="center">I like creating with code.</h3>
 
-###
-<p align="center">These are my favourites: <p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4c3b0e4b-87e0-4e87-8d55-76cde37691cb" alt="Rouge" width="300" style="display:inline-block; margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/993e5c06-5bd9-4b3e-97f9-658dca12f185" alt="Unity" width="300" style="display:inline-block;"/>
-</p>
-
-###
-
 <p align="center">
   Currently working on <a href="https://github.com/wiktormalyska/technologia-cyborga/">Technologia Cyborga</a> and <a href="https://github.com/amelia-kowalik/Cat-Town/">Cat Town</a>
 </p>
 
 
 ###
+
+<p align="center"> 
+  Game Jam project: <a href https://globalgamejam.org/games/2025/pop-blop-4/">Pop That Blop
+</p>
+
+###
+
 
 <div align="left">
 </div>
