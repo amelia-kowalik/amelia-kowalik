@@ -4,10 +4,6 @@
 
 <h3 align="center">I like creating with code.</h3>
 
-<p align="center">
-  Currently working on <a href="https://github.com/wiktormalyska/technologia-cyborga/">Technologia Cyborga</a> and <a href="https://github.com/amelia-kowalik/Cat-Town/">Cat Town</a>
-</p>
-
 
 ###
 
