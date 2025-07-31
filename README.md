@@ -6,7 +6,10 @@
 
 
 ###
-
+<p align="center"> 
+  Games I made: <a href https://www.youtube.com/playlist?list=PL3-jEREkIMxsarFLPJkIcei87miNXXiRl> My Games
+</p>
+  
 <p align="center"> 
   Game Jam project: <a href https://globalgamejam.org/games/2025/pop-blop-4/">Pop That Blop
 </p>
